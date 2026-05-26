@@ -6,28 +6,27 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  /* Change favorite color */
-  --hue-color: 250;
-  /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
+  /* Color cálido: Naranja/Terracota */
+  --hue-color: 20;  /* Naranja (antes 250 - morado) */
+  /* Alternativas: 20 = Naranja, 30 = Ámbar, 45 = Amarillo, 350 = Rojo */
 
   /* HSL color mode */
-  --first-color: hsl(var(--hue-color), 69%, 61%);
-  --first-color-second: hsl(var(--hue-color), 69%, 61%);
-  --first-color-alt: hsl(var(--hue-color), 57%, 53%);
-  --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
-  --title-color: hsl(var(--hue-color), 8%, 15%);
-  --text-color: hsl(var(--hue-color), 8%, 45%);
-  --text-color-light: hsl(var(--hue-color), 8%, 65%);
-  --input-color: hsl(var(--hue-color), 70%, 96%);
-  --body-color: hsl(var(--hue-color), 60%, 99%);
+  --first-color: hsl(var(--hue-color), 85%, 55%);     /* Naranja vibrante */
+  --first-color-second: hsl(var(--hue-color), 75%, 50%); /* Naranja oscuro */
+  --first-color-alt: hsl(var(--hue-color), 80%, 45%);    /* Naranja más oscuro */
+  --first-color-lighter: hsl(var(--hue-color), 90%, 75%); /* Naranja claro */
+  --title-color: hsl(var(--hue-color), 30%, 20%);
+  --text-color: hsl(var(--hue-color), 15%, 40%);
+  --text-color-light: hsl(var(--hue-color), 10%, 60%);
+  --input-color: hsl(var(--hue-color), 50%, 95%);
+  --body-color: hsl(var(--hue-color), 40%, 98%);
   --container-color: #fff;
-  --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
-  --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
+  --scroll-bar-color: hsl(var(--hue-color), 20%, 85%);
+  --scroll-thumb-color: hsl(var(--hue-color), 60%, 65%);
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
 
-  /* .5rem = 8px, 1rem = 16px, 1.5rem = 24px ... */
   --big-font-size: 2rem;
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
@@ -41,7 +40,6 @@
   --font-semi-bold: 500;
 
   /*========== Margenes Bottom ==========*/
-  /* .25rem = 4px, .5rem = 8px, .75rem = 12px ... */
   --mb-0-25: 0.25rem;
   --mb-0-5: 0.5rem;
   --mb-0-75: 0.75rem;
@@ -1272,4 +1270,19 @@ textarea {
   .contact__inputs {
     grid-template-columns: repeat(2, 1fr);
   }
+}
+.change-theme {
+  font-size: 1.25rem;
+  color: var(--title-color);
+  margin-right: var(--mb-1);
+  cursor: pointer;
+}
+
+.change-theme:hover {
+  color: var(--first-color);
+}
+
+/* Icono sol (modo claro) */
+.uil-sun {
+  color: var(--title-color);
 }

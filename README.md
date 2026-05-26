@@ -1,50 +1,15 @@
-# 🌟 Modern Personal Portfolio Website
+# Evidencias de la actividad
+## Home
+<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/f701b5b6-0b8a-4940-8638-f600454a5bfa" />
+## Camino Profesional
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/39a4da88-beac-4da1-865b-5e25bb0cf792" />
+## servicios
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/46a0c449-08c5-405e-a617-6043ce4de7c2" />
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/02f37aa1-7375-434e-9a73-70914a17a618" />
 
-A clean, beautiful and responsive portfolio website built with HTML, CSS, and JavaScript!
 
-## 🚀 Features
+### Contactos
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/94c8f99c-b1cc-4fe0-ba26-546a3b5dd739" />
 
-- 💡 Light/Dark mode toggle
-- 📱 Fully Responsive
-- 🎨 Modern Design
-- 💥 Animations using AOS library
-- 🔄 Dynamic Type Writing effect
-- 🎭 Multiple sections including About, Skills, Portfolio, and Contact
-- 📊 Skills progress visualization
-- 🖼️ Portfolio showcase with Swiper.js
-- 📝 Contact form
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Swiper.js - Modern mobile touch slider
-- AOS - Animate On Scroll Library
-- Unicons - Beautiful icons
-
-## 📌 Key Sections
-
-- 🏠 Home with dynamic typing effect
-- 👨‍💼 About with professional info
-- 🎯 Skills with progress bars
-- 📚 Qualification timeline
-- 💼 Services offered
-- 🖼️ Portfolio showcase
-- 📧 Contact form
-
-## 💻 Live Demo
-
-You can view the live demo of the Portfolio by clicking the link below:
-
-<a href="https://daneshcode.github.io/Portfolio-Website/" target="_blank">🔗 Open the Portfolio</a>
-
-## 📞 Contact
-
-Feel free to reach out if you have any questions or feedback!
-
-- 📧 Email: [DaneshCode.Dev@gmail.com](mailto:DaneshCode.Dev@gmail.com)
-
----
-
-⭐ Don't forget to star this repo if you like it!
+# Evidencia de la creación de Git hub
+<img width="1471" height="775" alt="image" src="https://github.com/user-attachments/assets/49f6cb68-c78b-49ce-91e6-247bb5cbfdc9" />
